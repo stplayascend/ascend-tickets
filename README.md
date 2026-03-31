@@ -52,9 +52,8 @@ DISCORD_CLIENT_ID=      # Your application/client ID (for deploy-commands)
 DISCORD_GUILD_ID=       # Your server ID
 ADMIN_ROLE_ID=          # Role ID for admins/support staff
 DATABASE_URL=           # PostgreSQL connection string
+TRANSCRIPT_CHANNEL_ID= 
 ```
-
-> **Note:** `TRANSCRIPT_CHANNEL_ID` is set per-server via `/link`, not in `.env`.
 
 ### 5. Install & Run
 
